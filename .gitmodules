@@ -1,0 +1,15 @@
+[submodule "movieshakerv2"]
+	path = movieshakerv2
+	url = https://github.com/RobinMcM/MovieShakerV2
+[submodule "rapidmvp"]
+	path = rapidmvp
+	url = https://github.com/RobinMcM/rapidmvp
+[submodule "media-handler"]
+	path = media-handler
+	url = https://github.com/RobinMcM/media-handler
+[submodule "openrouter-gateway"]
+	path = openrouter-gateway
+	url = https://github.com/RobinMcM/openrouter-gateway
+[submodule "afilminabox"]
+	path = afilminabox
+	url = https://github.com/RobinMcM/afilminabox
