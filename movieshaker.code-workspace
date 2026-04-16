@@ -4,7 +4,8 @@
     { "name": "RapidMVP", "path": "rapidmvp" },
     { "name": "Media Handler", "path": "media-handler" },
     { "name": "OpenRouter Gateway", "path": "openrouter-gateway" },
-    { "name": "AFilmInABox", "path": "afilminabox" }
+    { "name": "AFilmInABox", "path": "afilminabox" },
+    { "name": "Chatbot", "path": "chatbot" }
   ],
   "settings": {
     "git.detectSubmodules": true
