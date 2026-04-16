@@ -13,3 +13,6 @@
 [submodule "afilminabox"]
 	path = afilminabox
 	url = https://github.com/RobinMcM/afilminabox
+[submodule "chatbot"]
+	path = chatbot
+	url = https://github.com/RobinMcM/chatbot.git
